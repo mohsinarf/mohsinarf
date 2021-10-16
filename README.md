@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi, I am Mohsin Ali.
+
+🔭 I am a software engineer at Baum Corporation, where I develop desktop application for CentOS operating system using C++ and Qt.
+
+🌱 I’m currently learning about machine leaning and computer vision.
+
+📫 You can contact me on mohsinali251993@gmail.com
 
 <!--
 **mohsinarf/mohsinarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
