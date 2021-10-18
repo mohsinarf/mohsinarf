@@ -1,6 +1,6 @@
-### 👋 Hi, I am Mohsin Ali.
+### 👋 Hi, my name is mohsin ali.
 
-🔭 I am a software engineer at Baum Corporation, where I develop desktop application for CentOS operating system using C++ and Qt.
+🔭 I am a software engineer at Baum Corporation, where I develop desktop applications for CentOS operating system using C++ and Qt.
 
 🌱 I’m currently learning about machine leaning and computer vision.
 
