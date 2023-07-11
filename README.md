@@ -4,9 +4,9 @@ I am a software developer and graphics programmer with more than 4 years of expe
 
 I have been involved in various projects ranging from desktop applications development (Windows, CentOS), computer vision, and robotics programming to 3D computer   graphics using graphics APIs such as OpenGL. 
 
-🌱 Research Interest: 3D Graphics, Virtual Reality, and Software Development
+🌱 Research Interest: Low-Latency Systems, Cross Platform Applications, and Software Development
 
-🔭 Key Skills: C/C++/Qt/Qml/OpenGL/Python/OpenCV/JavaScript
+🔭 Key Skills: C/C++/Qt/Qml/OpenGL/Python/AWS/OpenCV/JavaScript
 
 💬 LinkedIn: https://www.linkedin.com/in/mohsinali-/
 
