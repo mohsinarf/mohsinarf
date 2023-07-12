@@ -30,7 +30,7 @@ IDEs and Editors: VSCode/Visual Studio/Jupyter Notebook
 
 💬 LinkedIn: https://www.linkedin.com/in/mohsinali-/
 
-📫 You can contact me on mohsinali251993@gmail.com
+📫 You can contact me on mohsinariv@gmail.com
 
 <!--
 **mohsinarf/mohsinarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
