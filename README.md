@@ -7,6 +7,7 @@ I have been involved in various projects ranging from desktop applications devel
 🌱 Research Interest: Low-Latency Systems, Cross Platform Applications, and Software Development
 
 🔭 Key Skills
+
 Programming Languages: C++/Python/JavaScript
 
 Graphics and GUI: Qt/QML/OpenGL/ImGui
