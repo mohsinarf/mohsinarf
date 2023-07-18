@@ -6,28 +6,6 @@ I have been involved in various projects ranging from desktop applications devel
 
 🌱 Research Interest: Low-Latency Systems, Cross Platform Applications, and Software Development
 
-🔭 Key Skills
-
-Programming Languages: C++/Python/JavaScript
-
-Graphics and GUI: Qt/QML/OpenGL/ImGui
-
-Cloud Platform: AWS Services
-
-Build and Deployment: CMake/Docker
-
-Machine Learning and Data Science: TensorFlow/Keras/NumPy/pandas/OpenCV
-
-Unit Testing: Catch2
-
-Version Control and Collaboration: Git/Jira/ButBucket
-
-Debugging and Profiling: GDB/Valgrind
-
-Documentation and Modeling: Doxygen/BOUML
-
-IDEs and Editors: VSCode/Visual Studio/Jupyter Notebook
-
 💬 LinkedIn: https://www.linkedin.com/in/mohsinali-/
 
 📫 You can contact me on mohsinariv@gmail.com
