@@ -1,6 +1,6 @@
 ### 👋 Hi, my name is mohsin ali.
 
-I am a software developer and graphics programmer with more than 4 years of experience in the entire software development lifecycle – from concepts to delivery of next-generation applications and customizable solutions.
+I am a software developer and system architect with more than 4 years of experience in the entire software development lifecycle – from concepts to delivery of next-generation applications and customizable solutions.
 
 I have been involved in various projects ranging from desktop applications development (Windows, CentOS), computer vision, and robotics programming to 3D computer   graphics using graphics APIs such as OpenGL. 
 
