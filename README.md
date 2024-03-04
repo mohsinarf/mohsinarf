@@ -4,7 +4,7 @@ I am a software developer and system architect with more than 4 years of experie
 
 I have been involved in various projects ranging from desktop applications development (Windows, CentOS), computer vision, and robotics programming to 3D computer   graphics using graphics APIs such as OpenGL. 
 
-🌱 Research Interest: Software Engineering and DevOps, Computer Graphics and Visualization, and High Frequency Trading(HFT) 
+🌱 Research Interest: Software Engineering and DevOps, Low-level latency, Computer Graphics, and Visualization
 
 💬 LinkedIn: https://www.linkedin.com/in/mohsinali-/
 
